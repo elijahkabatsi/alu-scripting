@@ -10,7 +10,7 @@ By the end of this project, you’ll be able to:
 - Parse JSON responses.
 - Perform recursive API queries.
 - Sort dictionaries by values.
-- Follow RESTful and PEP8 coding standards.
+- Follow RESTful and PEaoP8 coding standards.
 
 ---
 
